@@ -14,10 +14,10 @@ iframe {
 	src: url( DroidSans.ttf ) format( "opentype" );
 }
 #jukebox {
-	position: absolute;
-	right: 0px;
-	margin-right: 5px;
+	position: relative;
 	margin-top: 5px;
+	margin-right: 5px;
+	float: right;
 	color: white;
 	font-size: 5;
 }
